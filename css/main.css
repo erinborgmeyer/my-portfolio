@@ -23,7 +23,15 @@ body {
     
 }
 
-name {
-    width: 10%;
+p { 
+    color: #CCCCCC;
     
 }
+
+.logo {
+    height: 100px;
+    width:100px;
+    display: block;
+    margin: 0 auto;
+}
+    
