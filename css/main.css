@@ -57,9 +57,19 @@ p {
     height: 40px;
     width: 40px;
     display: block;
-    margin: auto;
+    margin: 0 auto;
 }
 
+.box {
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+}
 
+.grid {
+    list-style: none;
+
+    
+}
 
     
